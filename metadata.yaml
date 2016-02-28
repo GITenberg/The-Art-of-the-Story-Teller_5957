@@ -1,0 +1,25 @@
+_repo: The-Art-of-the-Story-Teller_5957
+creator:
+  author:
+    agent_name: Shedlock, Marie L.
+    birthdate: 1854
+    deathdate: 1935
+    gutenberg_agent_id: '1900'
+    url: http://www.gutenberg.org/2009/agents/1900
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s literature -- Bibliography'
+- !lcsh 'Children -- Books and reading'
+- !lcc 'LB'
+- !lcsh 'Storytelling'
+- !lcsh 'Children''s stories -- Bibliography'
+title: The Art of the Story-Teller
+url: http://www.gutenberg.org/ebooks/5957
